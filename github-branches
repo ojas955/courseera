@@ -1,0 +1,8 @@
+Command:
+
+git branch -vv
+
+Output:
+
+  bug-fix-typo 8dd89c3 Fix typo
+* main         8dd89c3 [origin/main: ahead 1] Fix typo

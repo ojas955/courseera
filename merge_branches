@@ -1,0 +1,15 @@
+Command:
+
+git checkout main
+
+git merge bug-fix-typo
+
+Output:
+
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+Updating b91498a..8dd89c3
+Fast-forward
+ typo.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 typo.txt
